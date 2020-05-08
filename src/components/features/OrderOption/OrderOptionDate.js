@@ -4,7 +4,7 @@ import DatePicker from 'react-datepicker';
 
 import styles from './OrderOption.scss';
 
-import 'react-datepicker/dist/react-datepicker.css';
+import 'react-datepicker/dist/react-datepicker-cssmodules.css';
 
 const OrderOptionDate = ({ setOptionValue, currentValue }) => {
 
